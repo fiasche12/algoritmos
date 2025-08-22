@@ -1,2 +1,4 @@
 # algoritmos
-practica
+
+
+agregamos codigo al archivo readme
